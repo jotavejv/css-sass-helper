@@ -1,0 +1,45 @@
+
+/*====>positions  ====*/
+@for $i from 0 through 100 {
+	.t#{$i} {
+		top:1px * $i;
+	}
+	.b#{$i} {
+		bottom:1px * $i;
+	}
+	.l#{$i} {
+		left:1px * $i;
+	}
+	.r#{$i}{
+		right:1px * $i;
+	}
+}
+
+/*====>margins  ====*/
+@for $i from 0 through 100 {
+	.m#{$i}  {
+		margin:1px * $i;
+	}
+}
+
+@for $i from 0 through 100 {
+	.mt#{$i} {
+		margin-top:1px * $i;
+	}
+	.mb#{$i}  {
+		margin-bottom:1px * $i;
+	}
+	.ml#{$i}  {
+		margin-left:1px * $i;
+	}
+	.mr#{$i}  {
+		margin-right:1px * $i;
+	}
+}
+
+/*====>fonts  ====*/
+@for $i from 0 through 100 {
+	.fz#{$i} {
+		font-size:1px * $i;
+	}
+}
