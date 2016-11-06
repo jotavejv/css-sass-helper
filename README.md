@@ -20,6 +20,7 @@ In your sass file import the ***_helpers.scss***
 ## Basic examples
 
 ```html
+
 <p class="fz14">Lorem ipsum</p>
 
 ```
@@ -29,7 +30,8 @@ In your sass file import the ***_helpers.scss***
 }
 ```
 
-```
+```html
+
 <div class="mt20">Lorem ipsum</div>
 
 ```
