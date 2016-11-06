@@ -1,7 +1,6 @@
 # CSS helper
 
-This scss file provides a class utilities based on ***emmet*** syntax with just unique purpose: *manipulate static values in **margin** and **position** *.
-There is a ***font-size*** manager too.
+This scss file provides a class utilities based on **emmet** syntax with just unique purpose: manipulate static values in **margin** and **position**. There is a **font-size** manager too.
 
 The generated values range is 1 to 100px, you can use:
 
