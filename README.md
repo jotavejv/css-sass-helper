@@ -42,7 +42,7 @@ In your sass file import the ***_helpers.scss***
 ```
 
 # Important
-The CSS file generated from this helper is a lot of classes, so keep in mind the performance and use some ***clean up css tool***. Strongly recommend the [purify-css](https://github.com/purifycss/purifycss)
+The CSS file generated from this helper is a lot of classes, so keep in mind the performance and use some *clean up css tool*. I Strongly recommend the [purify-css](https://github.com/purifycss/purifycss)
 
 ### Why?
 Sometimes we don't have much time and we need make the job faster, and create new classes for simple tasks like *positions*, *margins* and *font-sizes* consume a time.This "helper" helps do these boring tasks when we are in a rush. But this it isn't the best approach, knowing that you can improve your html and css by creating custom and reusables classes.
