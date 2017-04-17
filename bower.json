@@ -5,7 +5,7 @@
     "João Victor <contatos.jv@hotmail.com>"
   ],
   "description": "This scss file provides a class utilities based on emmet syntax with just unique purpose: manipulate static values in margin and position. There is a font-size manager too.",
-  "main": "sass/_helpers.scss",
+  "main": "_helpers.scss",
   "keywords": [
     "css"
   ],
