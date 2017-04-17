@@ -12,10 +12,10 @@ The generated values range is 1 to 100px, you can use:
 | ml      | l |  | 1 - 100px |
 
 ## How to install
-You can use the [cdn](https://cdn.rawgit.com/jotavejv/css-helper/master/helpers.css) `https://cdn.rawgit.com/jotavejv/css-helper/master/helpers.css` or download this repo.
+You can use the generated css file from [cdn](https://cdn.rawgit.com/jotavejv/css-helper/master/helpers.css) `https://cdn.rawgit.com/jotavejv/css-helper/master/helpers.css` or download this repo.
 
 ## How to use
-In your sass file import the ***_helpers.scss***
+In your sass file import the ***_helpers.scss*** if you have downloaded it.
 
 ```scss
 @import 'helpers.scss'
