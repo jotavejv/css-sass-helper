@@ -15,7 +15,7 @@ The generated values range is 1 to 100px, you can use:
 You can use the generated css file from [cdn](https://cdn.rawgit.com/jotavejv/css-helper/master/helpers.css) `https://cdn.rawgit.com/jotavejv/css-helper/master/helpers.css` or download this repo.
 
 ## How to use
-In your sass file import the ***_helpers.scss*** if you have downloaded it.
+In your sass file import the ***_helpers.scss*** if you have downloaded it or if you are using `bower` just import from `bower_components/css-sass-helper/_helpers.scss`
 
 ```scss
 @import 'helpers.scss'
