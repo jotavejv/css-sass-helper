@@ -11,6 +11,9 @@ The generated values range is 1 to 100px, you can use:
 | mr      | r |  | 1 - 100px |
 | ml      | l |  | 1 - 100px |
 
+## How to install
+You can use the [cdn](https://cdn.rawgit.com/jotavejv/css-helper/master/helpers.css) `https://cdn.rawgit.com/jotavejv/css-helper/master/helpers.css` or download this repo.
+
 ## How to use
 In your sass file import the ***_helpers.scss***
 
