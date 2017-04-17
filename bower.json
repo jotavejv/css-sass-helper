@@ -1,0 +1,20 @@
+{
+  "name": "css-helper",
+  "homepage": "https://github.com/jotavejv/css-helper",
+  "authors": [
+    "João Victor <contatos.jv@hotmail.com>"
+  ],
+  "description": "This scss file provides a class utilities based on emmet syntax with just unique purpose: manipulate static values in margin and position. There is a font-size manager too.",
+  "main": "sass/_helpers.scss",
+  "keywords": [
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
